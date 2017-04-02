@@ -5,18 +5,18 @@ header-img: img/home-bg.jpg
 email: zxh804159854@163.com
 description: "业余程序猿 | 张孝航，Amateur programmer  | 这里是 @HNU张孝航 的个人博客，与你一起发现更大的世界。"
 keyword: "张孝航, HNU张孝航, ZXH, 鬼栈, huxpro, @huxpro, 张孝航的博客, ZXH Blog,"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://zhanxiaohang.top/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     15616455450
+zhihu_username:     zxh804159854
+github_username:    zxh804159854
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
 
