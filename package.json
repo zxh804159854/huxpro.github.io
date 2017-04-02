@@ -1,14 +1,14 @@
 {
     "name": "ZXH-blog",
     "title": "ZXH Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "author": "ZXH <zxh804159854@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "http://zxh804159854.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/zxh804159854/zxh804159854.github.io"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/zxh804159854/zxh804159854.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
